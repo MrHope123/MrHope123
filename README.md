@@ -2,7 +2,7 @@
 <h3 align="center">Software developer from Gauteng, South Africa, building Java and Spring Boot REST APIs</h3>
 
 <p align="center">
-  <a href="https://mrhope123.github.io/portfolio/">Portfolio</a> ·
+  <a href="https://github.com/MrHope123/Portfolio">Portfolio</a> ·
   <a href="mailto:fulufhelomalulekefm@gmail.com">Email</a> ·
   <a href="https://dev.to/dev.mrhope123">dev.to</a>
 </p>
@@ -39,6 +39,6 @@ Camunda and more advanced Spring (microservices, transaction history, rate limit
 ## 📫 Get in touch
 
 - Ask me about **Java, Spring Boot, REST APIs, JWT security, JPA/Hibernate, testing and CI**
-- 🌐 More of my work: [mrhope123.github.io/portfolio](https://mrhope123.github.io/portfolio/)
+- 🌐 More of my work: [Portfolio site code](https://github.com/MrHope123/Portfolio)
 - ✉️ [fulufhelomalulekefm@gmail.com](mailto:fulufhelomalulekefm@gmail.com)
 - 👯 Open to collaborating on any project that involves coding
